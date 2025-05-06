@@ -24,4 +24,4 @@ To deploy this project run
 
 ## Author
 
-- [@bhaukal01](https://github.com/bhaukal01)
+- [@SukarnBharadwaj](SukarnBharadwaj)
